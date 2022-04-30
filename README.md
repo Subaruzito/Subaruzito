@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Suba
-- 👀 I’m interested in frontend developement
-- 🌱 I’m currently learning ReactJS
+- 👋 Hi, I’m @Suba.
+- 👀 I’m interested in frontend developement.
+- 🌱 I’m currently learning ReactJS.
 
 
 <!---
